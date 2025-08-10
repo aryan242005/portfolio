@@ -16,9 +16,9 @@ const Contact = () => {
     }
 
     return (
-        <div id="contact" className="mt-[50px] flex flex-col items-center gap-10 pt-[90px]">
+        <div id="contact" className="mt-[50px] max-w-[1100px] mx-auto flex flex-col items-center gap-10 xl:pt-[30px]">
             <h1 className="text-[40px] font-bold font-poppins">Contact Me</h1>
-            <form onSubmit={sendEmail} className="w-[1020px] flex flex-col gap-10 px-[30px]">
+            <form onSubmit={sendEmail} className="min-w-full flex flex-col gap-10 px-[30px]">
                 <div className="w-full flex gap-5">
                     <input name="first_name" type="text" className="w-full h-[50px] rounded-[10px] border-black border-[2px] pl-[15px]" placeholder="First Name" />
                     <input name="last_name" type="text" className="w-full h-[50px] rounded-[10px] border-black border-[2px] pl-[15px]" placeholder="Last Name" />
