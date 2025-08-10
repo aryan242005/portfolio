@@ -10,7 +10,7 @@ const About = () => {
                 </div>
                 <div className="flex-1 flex items-center justify-center">
                     <div className="bg-green-500 p-[10px] rounded-[30px] border-[0px] border-black shadow-[0_4px_15px_rgba(0,0,0,0.6)]">
-                        <img src="/IMG_9853.jpg" className="w-[200px] h-[200px] md:w-[300px] md:h-[300px] xl:w-[400px] xl:h-[400px] object-cover mx-auto rounded-[20px] bg-white border-[2px] border-black object-top" />
+                        <img src="/profile.png" className="w-[200px] h-[200px] md:w-[300px] md:h-[300px] xl:w-[400px] xl:h-[400px] object-cover mx-auto rounded-[20px] bg-white border-[2px] border-black object-top" />
                     </div>
                 </div>
                 <div className="flex-1 flex flex-col justify-center xl:pl-[60px] mt-[30px] xs:mt-0">

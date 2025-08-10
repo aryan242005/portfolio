@@ -25,7 +25,7 @@ const Home = () => {
                 <div className="flex-1 flex items-center justify-center mt-[60px]">
                     <div className="bg-green-500 border-black border-[4px] p-[60px] rounded-[280px]">
                         <div className="bg-white rounded-[200px] border-black border-[4px]">
-                            <img src="/IMG_9853.jpg" className="w-[150px] h-[150px] sm:min-w-[200px] sm:min-h-[200px] md:min-w-[300px] md:min-h-[300px] xl:min-w-[400px] xl:min-h-[400px] object-cover mx-auto rounded-[200px] object-top"/>
+                            <img src="/profile.png" className="w-[150px] h-[150px] sm:min-w-[200px] sm:min-h-[200px] md:min-w-[300px] md:min-h-[300px] xl:min-w-[400px] xl:min-h-[400px] object-cover mx-auto rounded-[200px] object-top"/>
                         </div>
                     </div>
                 </div>
